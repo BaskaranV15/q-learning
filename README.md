@@ -5,8 +5,7 @@
 To develop and evaluate the Q-learning algorithm's performance in navigating the environment and achieving the desired goal.
 
 ## PROBLEM STATEMENT
-The goal of this project is to implement a Q-learning algorithm that enables an agent to learn optimal actions in a dynamic environment to maximize cumulative rewards.
-
+Implement the Q-Learning algorithm to train an agent in the Frozen Lake environment and compare its performance with the Monte Carlo algorithm. The objective is to evaluate the success rates, convergence speed, and optimality of policies learned by each algorithm. Performance will be assessed through metrics like average reward per episode and policy stability.
 ## Q LEARNING ALGORITHM
 ### Step 1:
 Initialize the Q-table with zeros for all state-action pairs based on the environment's observation and action space.
