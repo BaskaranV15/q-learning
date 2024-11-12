@@ -414,6 +414,18 @@ plot_value_function(
 ```
 ## OUTPUT:
 
+![image](https://github.com/user-attachments/assets/8b6cea73-ce99-4c25-99af-720103615a18)
+
+![image](https://github.com/user-attachments/assets/bd5cc07b-3a4d-42f4-bbfe-3ec3610d07d0)
+
+![image](https://github.com/user-attachments/assets/80c28aae-052e-45a2-ac72-849f7a7a465a)
+
+![image](https://github.com/user-attachments/assets/663032d9-8cce-493c-bcb6-28f85fa46923)
+
+![image](https://github.com/user-attachments/assets/095a358f-928f-43c2-a296-df06ab70c705)
+
+![image](https://github.com/user-attachments/assets/b10aa66e-d31d-41a9-8db2-adc599a60f19)
+
 
 ## RESULT:
 Thus the python program to implement Q-learning is implemented successfully
