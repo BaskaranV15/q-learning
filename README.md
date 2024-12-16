@@ -308,7 +308,7 @@ del Q_mcs ; del V_mcs ; del Q_track_mcs
 ```
 
 #### Q-learning
-```
+```python
 from tqdm import tqdm_notebook as tqdm
 def q_learning(env, 
                gamma=1.0,
